@@ -22,10 +22,10 @@ ProyectoUno, primer proyecto para poner en practica lo aprendido en clase. Sobre
 
 ## Deploy 🌐
 
-<div align = "center">
+<!-- <div align = "center">
     <a href=""><strong> Ir a ProyectoUno </strong></a>
      
-</div>
+</div> -->
 
 ## Vistas 📸
 
