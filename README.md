@@ -7,7 +7,7 @@
     <li><a href="#sobre-el-proyecto-🔎">Sobre el proyecto</a></li>
     <li><a href="#vistas-📸">Vistas</a></li>
     <li><a href="#deploy-🌐">Deploy</a></li>
-    <li><a href="#contacto-👤">Contacto</a></li>
+    <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
 
@@ -24,7 +24,7 @@ ProyectoUno, primer proyecto para poner en practica lo aprendido en clase. Sobre
 
 <!-- <div align = "center">
     <a href=""><strong> Ir a ProyectoUno </strong></a>
-     
+
 </div> -->
 
 ## Vistas 📸
@@ -33,6 +33,6 @@ ProyectoUno, primer proyecto para poner en practica lo aprendido en clase. Sobre
 <img src="./img/pant2.png">
 <img src="./img/pant3.png"> -->
 
-## Contacto 👤
+## Contacto
 
 <p>parik4@gmail.com</p>😎
