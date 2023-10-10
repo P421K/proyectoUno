@@ -9,9 +9,27 @@
 }
 .header {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 40px;
+    grid-template-columns: repeat(1, 1fr);
+    /* gap: 40px; poner en @media */
     padding: 20px 15px;
+    background-color: #000;
+
+}
+.article{
+    background-color: rgb(189, 95, 95);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    height: 500px;
+
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
 }
 .logoContenedor{
     text-align: center;
@@ -22,8 +40,8 @@
     color: var(--color-principal);
 
 }
-.img_logo {
-    width: 100%;
+.img-logo {
+    width: 25%;
 }
 .logo {
     width: 40px;
@@ -50,7 +68,16 @@
     background-color: var(--color-principal);
     color: aliceblue;
 }
-.main-nav {
+.contenedor-main-nav {
     display: flex;
     text-align: center;
+    flex-direction: column;
+}
+
+.img-index{
+    border-radius: 50%;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+
 }
