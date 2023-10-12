@@ -30,8 +30,8 @@ ProyectoUno, primer proyecto para poner en practica lo aprendido en clase. Sobre
 ## Vistas 📸
 
 <img src="./imagenes/imgPantallas/pantalla1.png">
-<img src="./imagenes/imgPantallas/pantalla1.png">
-<img src="./imagenes/imgPantallas/pantalla1.png">
+<img src="./imagenes/imgPantallas/pantalla2.png">
+<img src="./imagenes/imgPantallas/pantalla3.png">
 
 ## Contacto
 
