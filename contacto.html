@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/estilo.css" />
-    <title>Contacto</title>
+    <title>Home</title>
   </head>
   <body>
     <div class="contenedor">
@@ -13,19 +13,58 @@
           <img class="img-logo" src="./imagenes/imgLogo/logo.png" alt="" />
           <p><span class="nomb-rest">NATU</span>REST</p>
         </div>
-        <nav class="main-nav">
-          <ul class="main-menu">
-            
-            <li class="item-menu"><a href="./index.html">inicio</a>
-            </li>
-            <li class="item-menu"><a href="./carta.html">carta</a></li>
-            <li class="item-menu"><a class="active" href="#">contacto</a>
-            </li>
-          </ul>
-        </nav>
+        <div class="contenedor-main-nav">
+          <nav class="main-nav">
+            <ul class="main-menu">
+              <li class="item-menu"><a href="./index.html">inicio</a></li>
+              <li class="item-menu"><a href="./carta.html">carta</a></li>
+              <li class="item-menu">
+                <a class="active" href="#">contacto</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
       </header>
-
-      <p>CONTACTO</p>
+      <section class="seccion">
+        <article class="article-contacto">
+          <h2><span class="color-letras">cont</span>acto</h2>
+          <div class="contenedor-formulario">
+            <form class="contForm">
+              <div class="formulario">
+               
+                <label for="nombre">Nombre</label>
+                <input
+                  type="text"
+                  name="nombre"
+                  id="nombre"
+                  placeholder="Tu nombre"
+                />
+              </div>
+              <div class="formulario">
+                <label for="mail">Email</label>
+                <input
+                  type="mail"
+                  name="mail"
+                  id="mail"
+                  placeholder="ejemplo@dominio.com"
+                />
+              </div>
+              <div class="formulario">
+                <label for="mensaje">Mensaje: </label>
+                <textarea
+                  name="mensaje"
+                  id="mensaje"
+                  placeholder="Escribe tu mensaje..."
+                ></textarea>
+              </div>
+              <input type="submit" value="Enviar" />
+            </form>
+          </div>
+        </article>
+      </section>
+      <div class="contenedor-footer">
+        <footer class="footer">@parik</footer>
+      </div>
     </div>
   </body>
 </html>
