@@ -22,16 +22,16 @@ ProyectoUno, primer proyecto para poner en practica lo aprendido en clase. Sobre
 
 ## Deploy 🌐
 
-<!-- <div align = "center">
-    <a href=""><strong> Ir a ProyectoUno </strong></a>
+<div align = "center">
+    <a href="https://p421k.github.io/proyectoUno/"><strong> Ir a ProyectoUno </strong></a>
 
-</div> -->
+</div>
 
 ## Vistas 📸
 
-<!-- <img src="./img/pant1.png">
-<img src="./img/pant2.png">
-<img src="./img/pant3.png"> -->
+<img src="./imagenes/imgPantallas/pantalla1.png">
+<img src="./imagenes/imgPantallas/pantalla1.png">
+<img src="./imagenes/imgPantallas/pantalla1.png">
 
 ## Contacto
 
